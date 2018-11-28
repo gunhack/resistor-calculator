@@ -3,7 +3,6 @@
 Este software te permite calcular el los resultados de las resistencias en serie.
 
 ## Funcionamiento
------
 
 * Al iniciar el programa podemos observar que hay varias opciones, para usarlo primero hay que agregar las resistencias, con su respectivo valor de ohms, puedes selecciona desde 10x^(-12) hasta 10x^(6) Ohms.
 
